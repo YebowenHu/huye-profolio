@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted to EMNLP2023, Singarpore! :smile:
+One paper has been accepted to EMNLP2023, Singarpore! :smile:

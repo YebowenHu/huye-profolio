@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-05-12 
+date: 2024-05-3 
 inline: true
 related_posts: false
 ---
 
-Research Intern at Tencent AI, Seattle! :mountain:
+Research Intern at Tencent AI Lab, Bellevue! :mountain:

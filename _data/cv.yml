@@ -22,26 +22,26 @@
 - title: Experience
   type: time_table
   contents:
-    - title: NLP Research Internship
+    - title: Research Scientist Intern
       institution: Tencent AI Lab, Seattle, WA, US
       year: 2024
       month: 5-Now
-      description:
-        - Research on inductive reasoning of LLM
+      # description:
+      #   - Research on inductive reasoning of LLM
         
-    - title: NLP Research Internship 
+    - title: Research Scientist Intern
       institution: Tencent AI Lab, Seattle, WA, US
       year: 2023
       month: 5-8
-      description:
-        - Research on humans’ preferences on alignment of foundation model
-        - Applying Bradley Terry Model for pair-wise human preference factors ranking
+      # description:
+      #   - Research on humans’ preferences on alignment of foundation model
+      #   - Applying Bradley Terry Model for pair-wise human preference factors ranking
 
-    - title: NLP Algorithm Engineer
+    - title: NLP Research Scientist
       institution: Hithink Flush Information Network Co Ltd, Hangzhou, China
       year: 2019-2021
-      description:
-        - Research on open domain knowledge graph and equity penetration graphs
+      # description:
+      #   - Research on open domain knowledge graph and equity penetration graphs
 
 - title: Honors and Awards
   type: time_table

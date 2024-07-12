@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted to ACL2023, Toronto! :smile:
+One paper has been accepted to ACL2023, Toronto! :smile:
